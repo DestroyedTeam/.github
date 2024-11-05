@@ -29,7 +29,3 @@ We are constantly brainstorming and working on new ideas to bring even more inno
 ## Get in Touch
 
 We are always open to collaboration and feedback. Feel free to reach out to us if you have any questions or if you are interested in working with us.
-
----
-
-Feel free to customize this draft further to better reflect your team's unique vision and goals.
